@@ -1,3 +1,5 @@
+# Aiden Everage
+
 def encode(password):
 	encode = ""
 	for num in password:
